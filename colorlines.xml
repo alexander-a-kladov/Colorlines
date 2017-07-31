@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="KOI8-R"?>
+<param>
+    <archname>colorlines.tar.gz</archname>
+    <dbconf ip="172.13.1.225" dbname="sigma" login="kks" passwd="1"/>
+    <ftpconf ip="172.13.0.1" path="Games.qt4" login="anonymous" passwd=""/>
+    <username>ak8</username>
+</param>
